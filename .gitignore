@@ -1,0 +1,5 @@
+vault-unseal-keys.json
+/volumes/logs/*
+/volumes/file/*
+*.license
+vault_env.config
